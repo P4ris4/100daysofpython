@@ -7,7 +7,6 @@ print("welcome to the band name generator")
 city=input("What city did you grew up in?\n")
 pet=input("what is the name of your pet?\n")
 print("you band name could be " + city + " " + pet)
-#--------------------------------------------
 
 #Second example
 #Write a program that switches the values stored in the variables a and b
@@ -21,7 +20,6 @@ b = c
 print("a: " + a)
 print("b: " + b)
 
-#-----------------------------------------------
 #Third example
 #In this example we are trying to code for adding two numbers together, first we have to set up variables, before that we wanted to check to see what type of data we have so we used type function. after assigning variables, we changed the data type to int in order to add them up. and lastly you print the reslut.
 two_digit_number = input("Type a two digit number: ")
